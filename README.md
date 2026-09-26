@@ -1,6 +1,6 @@
 ## Hi, I'm Austin Heisley-Cook 👋
 
-I'm a .NET developer who enjoys building with Microsoft technologies, especially C# and Azure. I also work with Python and web technologies.
+I'm a .NET developer who enjoys building with Microsoft technologies, especially C#, Azure, and Windows. I also work with Python and web technologies.
 
 ### Experience
 
@@ -10,7 +10,7 @@ I'm a .NET developer who enjoys building with Microsoft technologies, especially
 
 ### Skills
 
-C#, .NET, Azure, Python, PHP, Laravel, HTML, CSS, JavaScript, Visual Basic, and C++.
+C#, .NET, Azure, Python, PHP, Laravel, HTML, CSS, JavaScript, Visual Basic, and C++ and C.
 
 ### Education and Certifications
 
