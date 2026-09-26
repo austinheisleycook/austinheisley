@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Austin Heisley-Cook 👋
 
-<!--
-**austinheisley/austinheisley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a .NET developer who enjoys building with Microsoft technologies, especially C# and Azure. I also work with Python and web technologies.
 
-Here are some ideas to get you started:
+### Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Project Manager and Community Manager, Dragon Programming Language:** Led an international team, moved project workflows to GitHub, improved documentation, coordinated a website redesign, and contributed a text-to-speech library.
+- **IT Support, Taft Community College:** Supported campus technology and converted 1,000+ textbooks into accessible formats using OCR. Recognized as Best Worker of the Year.
+- **Field Operations Intern, EVgo:** Gained field operations experience and worked on Python programming.
+
+### Skills
+
+C#, .NET, Azure, Python, PHP, Laravel, HTML, CSS, JavaScript, Visual Basic, and C++.
+
+### Education and Certifications
+
+- Web development studies and Azure Programming Certification, Santa Monica College
+- .NET Programming Certification, Los Angeles Valley College
+- Information Technology and Management Certification, Taft Community College
+- Certifications in PHP and Laravel
